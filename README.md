@@ -7,7 +7,7 @@
 ## Код програми
 
 ```csharp
-using System.Diagnostics;class P{static void Main(){for(int i=0;i<5;i++)Console.Beep(400+i*50,200);Console.WriteLine("Випадкове число: "+(new Random((int)(DateTime.Now.Ticks+Process.GetCurrentProcess().PrivateMemorySize64+Environment.ProcessId)).Next(1,101)));}}//\{{;(((101,1)txeN.((dIssecorP.tnemnorivE+46eziSyromeMetavirP.()ssecorP+skciT.woN.emiTetaD)(tni))modnaR wen)+" :олсич евокдапіВ")eniLetirW.elosnoC;(002,05*i+004)peeB.elosnoC(++i;5<i;0=i tni)rof}()niaM diov citats}P ssalc;scitsongaiD.metsyS gnisu
+using System.Diagnostics;class P{static void Main(){for(int i=0;i<5;i++)Console.Beep(400+i*50,200);Console.WriteLine("Випадкове число: "+(Math.Abs((int)(DateTime.Now.Ticks+Process.GetCurrentProcess().PrivateMemorySize64+Environment.WorkingSet))%100+1));}}//\\{{;)))1+001%))teSgnikroW.tnemnorivnE+46eziSyromeMetavirP.()ssecorP+skciT.woN.emiTetaD(tni((bA.htaM( :"олсич евокдапиВ")eniLetirW.elosnoC;(002,05*i+004)peeB.elosnoC(++i;5<i;0=i tni)rof}()niaM diov citats}P ssalc;scitsongaiD.metsyS gnisu
 ```
 
 ## Компіляція та запуск
